@@ -11,7 +11,7 @@ import SwiftUI
 struct GolfApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GolfChippingView()
         }
     }
 }
